@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">E-BPHTB</string>
+    <string name="splash">E-BPHTB \n Kabupaten Takalar</string>
+    <string name="welcome">Selamat datang di \n e-BPHTB \n Badan Pendapatan Daerah \n Kabupaten Takalar </string>
+    <string name="cetaksts">Cetak Surat \n Tanda Setoran</string>
+    <string name="cektunggakan">Cek Tunggakan</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="permohonanbaru">Permohonan Baru</string>
+    <string name="nop">Nomor Objek Pajak</string>
+    <string name="petunjuk1">1. Datang ke BPD Sulsel-bar terdekat untuk melakukan Pembayaran.</string>
+    <string name="petunjuk2">2. Tunjukkan Kode Pembayaran ke kasir dan lakukan pembayaran sebesar yang tertera.</string>
+    <string name="petunjuk3">3. Setelah pembayaran berhasil, kamu akan mendapatkan bukti pembayaran. Mohon disimpan bukti pembayaran tersebut untuk diupload di aplikasi.</string>
+    <string-array name="nama_desa">
+        <item>Pattallassang</item>
+        <item>Mangadu</item>
+        <item>Punaga</item>
+        <item>Palleko</item>
+        <item>Takalar</item>
+        <item>Tonasa</item>
+        <item>Aeng Towa</item>
+        <item>Galesong</item>
+    </string-array>
+    <string-array name="nama_kec">
+        <item>Pattallassang</item>
+        <item>Mangadu</item>
+        <item>Manggara Bombang</item>
+        <item>Polongbangkeng Utara</item>
+        <item>Galesong Utara</item>
+        <item>Galesong</item>
+    </string-array>
+    <string-array name="perhak">
+        <item>Tanah Negara</item>
+        <item>Waris</item>
+        <item>Hibah</item>
+        <item>Tukar Menukar</item>
+    </string-array>
+    <string-array name="serti">
+        <item>Tanah Negara</item>
+        <item>SK/Ijin Penunjukan</item>
+        <item>Tanah Garapan</item>
+        <item>Sertifikat</item>
+        <item>Girik</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
